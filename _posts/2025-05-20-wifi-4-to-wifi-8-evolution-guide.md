@@ -2,7 +2,6 @@
 layout: post
 title: "Wi-Fi 4 to Wi-Fi 8 Evolution: A Technical Guide for Network Equipment Suppliers & OEMs"
 date: 2025-05-20
-categories: [industrial wireless, wifi module]
 tags: [wifi6, wifi7, industrial access point]
 ---
 
