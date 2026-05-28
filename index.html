@@ -1,18 +1,21 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Maxon Nanjing Knowledge</title>
-</head>
-<body>
-    <h1>Maxon Nanjing Technical Knowledge</h1>
-    <p>Industrial wireless solutions for network equipment suppliers & OEMs.</p>
-    
-    <h2>Latest Articles</h2>
-    <ul>
-        <li><a href="/knowledge/2025/05/20/wifi-4-to-wifi-8-evolution-guide/">Wi-Fi 4 to Wi-Fi 8 Evolution Guide</a></li>
-    </ul>
-    
-    <hr>
-    <p>Main site: <a href="https://www.mxcomm.cn">mxcomm.cn</a></p>
-</body>
-</html>
+---
+layout: default
+title: Wireless knowledge
+---
+
+<div class="home">
+  <h1>最新文章</h1>
+  
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
+        <h2>
+          <a href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
