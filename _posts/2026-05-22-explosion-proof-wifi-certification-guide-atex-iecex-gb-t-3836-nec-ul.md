@@ -379,7 +379,7 @@ These factors directly influence ATEX zones and the required equipment protectio
 
 ---
 
-> 📄 **本文原始版本**：[Explosion Proof WiFi Certification Guide](https://www.mxcomm.cn/support/story/3980.html) 发布于 MXCOMM 官网，包含最新法规更新。
+> 📄 **Original version of this article:**：[Explosion Proof WiFi Certification Guide](https://www.mxcomm.cn/support/story/3980.html)  was published on NANJING MAXON official website and includes the latest regulatory updates.
 
 <p style="margin-top: 40px; padding: 15px; border-top: 1px solid #ddd; font-size: 14px; color: #666;">
     📄 This article was originally published on <a href="https://www.mxcomm.cn/support/story/3980.html" rel="canonical">NJ MAXON official website</a>.<br>
