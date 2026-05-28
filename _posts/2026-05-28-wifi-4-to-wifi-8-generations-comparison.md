@@ -36,7 +36,7 @@ Looking for the latest WiFi standards comparison? This table covers everything f
 - **Wi-Fi 7 (802.11be)** : Ultra-high throughput with 320MHz channels and MLO
 - **Wi-Fi 8 (802.11bn)** : Future standard focused on reliability and deterministic latency
 
-> 📄 **Original version of this article:** *WiFi 4 vs WiFi 5 vs WiFi 6 vs WiFi 7 vs WiFi 8: WiFi Generations Explained* was published on the MXCOMM official website and contains the most current technical specifications.
+> 📄 **Original version of this article:** *WiFi 4 vs WiFi 5 vs WiFi 6 vs WiFi 7 vs WiFi 8: WiFi Generations Explained* was published on the NANJING MAXON official website and contains the most current technical specifications.
 
 ---
 
